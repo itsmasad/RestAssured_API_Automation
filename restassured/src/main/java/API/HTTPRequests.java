@@ -11,6 +11,7 @@ then()
 
 public class HTTPRequests {
 
+    @Test
     public static void main(String[] args) {
         // Add program logic here
         System.out.println("Main method executed.");
