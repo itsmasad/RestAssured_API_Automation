@@ -29,7 +29,7 @@
     <dependency>
         <groupId>org.testng</groupId>
         <artifactId>testng</artifactId>
-        <version>7.9.0</version> <!-- Use the latest version of TestNG -->
+        <version>7.4.0</version> <!-- Use the latest version of TestNG -->
         <scope>test</scope> <!-- This dependency is only needed for testing -->
     </dependency>
   <dependency>
